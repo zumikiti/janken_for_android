@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Janken</string>
+    <string-array name="janken">
+        <item>ぐー</item>
+        <item>チョキ</item>
+        <item>パー</item>
+    </string-array>
+</resources>
