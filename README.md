@@ -13,6 +13,6 @@
 ```
 int judge = ([自分の手] - [相手の手] + 3)%3;
 if (judge == 0) {あいこ}
-if (judge == 0) {負け}
-if (judge == 2){勝ち}
+if (judge == 1) {負け}
+if (judge == 2) {勝ち}
 ```
